@@ -1,6 +1,6 @@
-- Hi, I am Diego a Guatemalan 🇬🇹 student studying in Paris 🇫🇷 
-- I’m currently pursuing the MVA master's degree at ENS Paris-Saclay.
-- I’m interested in discovering more facets of AI! My main research interests are Computer Vision, Computer Graphics and Reinforcement learning.
+- Hi, I am Diego a Guatemalan 🇬🇹 living in Paris 🇫🇷 
+- I am pursuing a PhD at LIX under the supervision of Prof. Maks Ovsjanikov.
+- My main research interests are Computer Vision, Computer Graphics, and Machine learning. I work extensively with NerFs and 3D reconstruction problems and am interested in the Foundational Models.
 - 📫 diego.gomez@polytechnique.edu
 
 <!---
