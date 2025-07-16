@@ -1,6 +1,6 @@
 - Hi, I am Diego a Guatemalan 🇬🇹 living in Paris 🇫🇷 
 - I am pursuing a PhD at LIX under the supervision of Prof. Maks Ovsjanikov.
-- My main research interests are Computer Vision, Computer Graphics, and Machine learning. I work extensively with NerFs and 3D reconstruction problems and am interested in the Foundational Models.
+- My main research interests are Computer Vision and Computer Graphics.
 - 📫 diego.gomez@polytechnique.edu
 
 <!---
